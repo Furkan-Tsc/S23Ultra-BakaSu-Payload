@@ -1,0 +1,26 @@
+﻿{
+  "schemaVersion": 3,
+  "payloads": [
+    {
+      "payloadId": "dm3q-S918BXXSAFZF5-rsksu420",
+      "displayName": "Galaxy S23 Ultra SM-S918B | S918BXXSAFZG1 | BakaSU 4.2.0-rc3",
+      "models": ["SM-S918B"],
+      "kernelVersions": [
+        "5.15.189",
+        "5.15.189-android13-8-33413713-abS918BXXSAFZG1"
+      ],
+      "flavor": "resukisu",
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S918BXXSAFZF5/cve-2026-43499-app.so",
+        "size": 133344,
+        "sha256": "835dc1963315726e0c25c42e88159c871e4ab1d54ed3c51f5cb753e833781776"
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/rushiranpise/Root-My-Galaxy-Payloads/main/kernelsu/ksud-rsksu-generic-kdp",
+        "size": 4798280,
+        "sha256": "a1445e9217d5629831d626e85ded4100af3296149ce0cdc3e400611b299fbe44",
+        "version": "4.2.0-rc3"
+      }
+    }
+  ]
+}
